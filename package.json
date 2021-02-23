@@ -1,0 +1,19 @@
+{
+  "name": "ch-calculator",
+  "version": "1.0.0",
+  "description": "Javascript class in the form of an object that will serve as a calculator.\nThe calculator should contain simple functions to perform the following actions:\n- Addition\n- Subtraction\n- Multiplication\n- Division\nPower",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "chai": "4.3.0",
+    "mocha": "8.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
